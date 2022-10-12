@@ -6,11 +6,13 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCytKDUapog2tnJD4XenehiQ?style=social)](https://www.youtube.com/channel/UCytKDUapog2tnJD4XenehiQ)
 [![Twitch](https://img.shields.io/twitch/status/NoxGamingQC?style=social)](https://twitch.tv/noxgamingqc)
 
-- 👋 Hi, I’m @NoxGamingQC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## About me
+
+Hey I'm Jimmy. I'm a Québécois that do videos, live stream and some coding as an hobby. Speak French and English.
+
+## Socials
+
+A list of our social account is [available on our website](https://noxgamingqc.ca) just make sure to head to the contact section to see them. Also make sure to follow them so you don't miss anything.
 
 <!---
 NoxGamingQC/NoxGamingQC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
