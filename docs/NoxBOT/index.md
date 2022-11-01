@@ -1,4 +1,4 @@
-# NoxBOT
+# [NoxBOT](https://github.com/NoxGamingQC/NoxBOT)
 
 A multitasking Discord bot.
 
