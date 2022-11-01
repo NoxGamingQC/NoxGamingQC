@@ -1,6 +1,6 @@
-# [NoxBOT](https://github.com/NoxGamingQC/NoxBOT)
+# NoxBOT
 
-A multitasking Discord bot.
+A multitasking Discord bot. [(View project)](https://github.com/NoxGamingQC/NoxBOT)
 
 ## Table of contents
 
