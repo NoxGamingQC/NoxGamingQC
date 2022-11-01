@@ -1,6 +1,5 @@
 # NoxBOT
-
-> _**A multitasking Discord bot.**_
+A multitasking Discord bot.
 
 ## Table of contents
 
