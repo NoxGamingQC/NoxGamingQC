@@ -8,7 +8,7 @@
 
 ## About me
 
-Hey I'm Jimmy. I'm a Québécois that do videos, live stream and some coding as an hobby. Speak French and English.
+Hey, I'm Jimmy. I'm a Québécois that do videos, live stream and some coding as an hobby. Speak French and English.
 
 ## Socials
 
