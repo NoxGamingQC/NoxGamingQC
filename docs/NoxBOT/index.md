@@ -1,4 +1,14 @@
+---
+layout: default
+title: NoxBOT
+description: A multitasking Discord bot.
+author: NoxGamingQC
+url: https://github.com/NoxGamingQC/NoxBOT
+remote_theme: pages-themes/cayman@v0.2.0
+---
+
 # NoxBOT
+
 _A multitasking Discord bot._
 
 ## Table of contents
