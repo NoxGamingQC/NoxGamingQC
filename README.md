@@ -1,3 +1,6 @@
+
+<div align="center">
+
 # NoxGamingQC's profile
 
 [![Discord Members](https://discord.com/api/guilds/938558244924829756/widget.png?style=shield)](https://noxgamingqc.ca/discord)
@@ -5,6 +8,21 @@
 [![Twitter](https://img.shields.io/twitter/follow/NoxgamingQC?label=follow)](https://twitter.com/noxgamingqc)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCytKDUapog2tnJD4XenehiQ?style=social)](https://www.youtube.com/channel/UCytKDUapog2tnJD4XenehiQ)
 [![Twitch](https://img.shields.io/twitch/status/NoxGamingQC?style=social)](https://twitch.tv/noxgamingqc)
+
+  <a href="https://github.com/NoxGamingQC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noxgamingqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxgamingqc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="c" title="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="cpp" title="cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="c#" title="c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="javascript" title="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="html5" title="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="php" title="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="processing" title="processing" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
+</div>
 
 ## About me
 
