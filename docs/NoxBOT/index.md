@@ -5,6 +5,9 @@ description: A multitasking Discord bot.
 author: NoxGamingQC
 url: https://github.com/NoxGamingQC/NoxBOT
 remote_theme: pages-themes/cayman@v0.2.0
+github:
+  repository_name: NoxBOT
+  repository_url: https://github.com/NoxGamingQC/NoxBOT
 ---
 
 # NoxBOT
