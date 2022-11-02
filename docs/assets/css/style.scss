@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-color: #CC0000;
+    background-image: linear-gradient(120deg, #CC0000, #FFBF00) !important;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #CC0000;
+}
+
+a {
+    color: #CC0000;
+}
+
+a:hover {
+    color: #880000;
+}
