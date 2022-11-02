@@ -8,7 +8,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 repository_name: NoxBOT
 repository_url: https://github.com/NoxGamingQC/NoxBOT
 is_project_page: true
-show_downloads: false
 ---
 
 ## Table of contents
