@@ -29,7 +29,7 @@
 
 Hey, I'm Jimmy. I'm a Québécois that do videos, live stream and some coding as an hobby. Speak French and English.
 
-Want to check our project. Their official page are available at [github.noxgamingqc.ca](https://github.noxgamingqc.ca)
+Want to check our projects. Their official pages are available at [github.noxgamingqc.ca](https://github.noxgamingqc.ca)
 
 ## Socials
 
