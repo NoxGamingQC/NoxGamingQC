@@ -4,11 +4,9 @@ title: NoxBOT
 description: A multitasking Discord bot.
 author: NoxGamingQC
 url: https://github.com/NoxGamingQC/NoxBOT
-remote_theme: NoxGamingQC/jekyll-theme@v0.1.0
+remote_theme: NoxGamingQC/jekyll-theme@latest
 repository_name: NoxBOT
 repository_url: https://github.com/NoxGamingQC/NoxBOT
-is_project_page: true
-owner_name: NoxGamingQC
 ---
 
 ## Table of contents
