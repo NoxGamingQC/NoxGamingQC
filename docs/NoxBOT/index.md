@@ -8,7 +8,8 @@ remote_theme: NoxGamingQC/jekyll-theme@latest
 repository_name: NoxBOT
 repository_url: https://github.com/NoxGamingQC/NoxBOT
 is_project_page: true
-owner_url: NoxGamingQC
+owner_url: https://github.com/NoxGamingQC
+owner_name: NoxGamingQC
 ---
 
 ## Table of contents
