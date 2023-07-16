@@ -7,7 +7,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=noxgamingqc&theme=dracula" alt="noxgamingqc" />
 </p>
 
-- 🔭 Vous voulez jetez un oeil à nos projets. Notre page officiel est disponible au [projects](https://github.noxgamingqc.ca)
+- 🔭 Vous voulez jetez un oeil à nos projets. Notre page officiel est disponible [ici](https://github.noxgamingqc.ca)
 
 - 🌱 J'apprend présentement le **Kotlin**
 
