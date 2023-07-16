@@ -3,7 +3,7 @@
 <h1 align="center">Bonjour 👋, Je m'appelle Jimmy</h1>
 <h3 align="center">Je suis un Québécois qui fais des vidéos, des diffusions en direct et de la programmation comme passe-temps. Je parle le français et l'anglais.</h3>
 
-<p align="left">
+<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=noxgamingqc&theme=dracula" alt="noxgamingqc" />
 </p>
 

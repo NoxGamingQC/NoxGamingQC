@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 <h3 align="center">I'm a Québécois that do videos, live stream and some coding as an hobby. Speak French and English</h3>
 
-<p align="left">
+<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=noxgamingqc&theme=dracula" alt="noxgamingqc" />
 </p>
 
