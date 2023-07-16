@@ -1,21 +1,21 @@
 
-<small>[Français disponible ici](README_FR.md)</small>
-<h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">I'm a Québécois that do videos, live stream and some coding as an hobby. Speak French and English</h3>
+<small>[English available here](README.md)</small>
+<h1 align="center">Bonjour 👋, Je m'appelle Jimmy</h1>
+<h3 align="center">Je suis un Québécois qui fais des vidéos, des diffusions en direct et de la programmation comme passe-temps. Je parle le français et l'anglais.</h3>
 
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=noxgamingqc&theme=dracula" alt="noxgamingqc" />
 </p>
 
-- 🔭 Want to check our projects. Our official pages are available at [projects](https://github.noxgamingqc.ca)
+- 🔭 Vous voulez jetez un oeil à nos projets. Notre page officiel est disponible au [projects](https://github.noxgamingqc.ca)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 J'apprend présentement le **Kotlin**
 
-- 👨‍💻 All of my projects are available on [our website](https://www.noxgamingqc.ca/en-ca/about_us/projects)
+- 👨‍💻 Tous nos projets sont disponible [sur notre site web](https://www.noxgamingqc.ca/fr-ca/about_us/projects)
 
-- 📫 How to reach me **jbedard@noxgamingqc.ca**
+- 📫 Vous pouvez me rejoindre au **jbedard@noxgamingqc.ca**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
     <a href="https://twitter.com/noxgamingqc" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noxgamingqc" height="30" width="40" />
@@ -46,7 +46,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Langages et outils:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -157,7 +157,7 @@
 </p>
 
 <a align="center" href="https://github.com/NoxGamingQC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noxgamingqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxgamingqc&layout=compact&langs_count=7&theme=dracula" />
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noxgamingqc&layout=compact&theme=dracula" alt="noxgamingqc" /></p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noxgamingqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=fr" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxgamingqc&layout=compact&langs_count=7&theme=dracula&locale=fr" />
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noxgamingqc&layout=compact&theme=dracula&locale=fr" alt="noxgamingqc" /></p>
 </a>
