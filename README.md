@@ -28,10 +28,10 @@
     <a href="https://instagram.com/noxgamingqc" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noxgamingqc" height="30" width="40" />
     </a>
-    <a href="https://www.youtube.com/c/noxgamingqc" target="blank">
+    <a href="https://www.youtube.com/@noxgamingqc" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noxgamingqc" height="30" width="40" />
     </a>
-    <a href="https://discord.gg/noxgamingqc" target="blank">
+    <a href="https://noxgamingqc.ca/discord" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="noxgamingqc" height="30" width="40" />
     </a>
 </p>
