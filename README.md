@@ -37,6 +37,12 @@
     <a href="https://noxgamingqc.ca/discord" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="noxgamingqc" height="30" width="40" />
     </a>
+    <a href="https://open.spotify.com/user/howlnox22607" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="noxgamingqc" height="30" width="40" />
+    </a>
+    <a href="https://snapchat.com/add/NoxGamingQC" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="noxgamingqc" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
