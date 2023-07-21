@@ -1,5 +1,5 @@
 
-<small>[Français disponible ici](README_FR.md)</small>
+<small>[Français disponible ici](README/README_FR.md)</small>
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 <h3 align="center">I'm a Québécois that do videos, live stream and some coding as an hobby. Speak French and English</h3>
 
