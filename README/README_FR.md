@@ -1,5 +1,5 @@
 
-<small>[English available here](README.md)</small>
+<small>[English available here](../README.md)</small>
 <h1 align="center">Bonjour 👋, Je m'appelle Jimmy</h1>
 <h3 align="center">Je suis un Québécois qui fais des vidéos, des diffusions en direct et de la programmation comme passe-temps. Je parle le français et l'anglais.</h3>
 
