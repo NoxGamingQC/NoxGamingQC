@@ -1,7 +1,8 @@
 
 <small>[Français disponible ici](README/README_FR.md)</small>
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">I'm a Québécois that do videos, live stream and some coding as an hobby. Speak French and English</h3>
+<h3 align="center">I'm a Québécois that do videos, live stream and some coding as an hobby. Speaks French and English</h3>
+<br />
 
 ![GitHub followers](https://img.shields.io/github/followers/noxgamingqc?style=for-the-badge&label=Github%20followers)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnoxgamingqc.ca&style=for-the-badge)
