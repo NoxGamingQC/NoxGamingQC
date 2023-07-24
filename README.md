@@ -3,6 +3,14 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 <h3 align="center">I'm a Québécois that do videos, live stream and some coding as an hobby. Speak French and English</h3>
 
+![GitHub followers](https://img.shields.io/github/followers/noxgamingqc?style=for-the-badge)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fnoxgamingqc.ca&style=for-the-badge)
+![Twitch Status](https://img.shields.io/twitch/status/noxgamingqc?style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCytKDUapog2tnJD4XenehiQ?style=for-the-badge&label=YouTube%20subs)
+![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/8650826?style=for-the-badge&logo=stackoverflow)
+![Ask Ubuntu reputation](https://img.shields.io/stackexchange/askubuntu/r/739492?style=for-the-badge&logo=askubuntu)
+
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=noxgamingqc&theme=dracula" alt="noxgamingqc" />
 </p>
