@@ -9,7 +9,7 @@
 
 - 🔭 Vous voulez jetez un oeil à nos projets. Notre page officiel est disponible [ici](https://github.noxgamingqc.ca)
 
-- 🌱 J'apprend présentement le **Kotlin**
+- 🌱 Je n'apprend rien présentement
 
 - 👨‍💻 Tous nos projets sont disponible [sur notre site web](https://www.noxgamingqc.ca/fr-ca/about_us/projects)
 
