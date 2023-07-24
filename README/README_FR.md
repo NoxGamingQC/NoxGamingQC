@@ -2,6 +2,7 @@
 <small>[English available here](../README.md)</small>
 <h1 align="center">Bonjour 👋, Je m'appelle Jimmy</h1>
 <h3 align="center">Je suis un Québécois qui fais des vidéos, des diffusions en direct et de la programmation comme passe-temps. Je parle le français et l'anglais.</h3>
+<br />
 
 ![GitHub followers](https://img.shields.io/github/followers/noxgamingqc?style=for-the-badge&label=Github%20followers)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnoxgamingqc.ca&style=for-the-badge)
