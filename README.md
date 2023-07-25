@@ -11,7 +11,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCytKDUapog2tnJD4XenehiQ?style=for-the-badge&label=YouTube%20subs)
 ![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/8650826?style=for-the-badge&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8650826)
 ![Ask Ubuntu reputation](https://img.shields.io/stackexchange/askubuntu/r/739492?style=for-the-badge&logo=askubuntu&link=https%3A%2F%2Faskubuntu.com%2Fusers%2F739492)
-
+<img alt="Discord" src="https://img.shields.io/discord/938558244924829756?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=%20&labelColor=%23697EC4&color=%237289DA&link=https%3A%2F%2Fnoxgamingqc.ca%2Fdiscord">
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=noxgamingqc&theme=dracula" alt="noxgamingqc" />
