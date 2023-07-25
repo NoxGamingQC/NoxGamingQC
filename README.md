@@ -5,14 +5,14 @@
 <br />
 
 <p align="center">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/noxgamingqc?style=for-the-badge&label=Github%20followers&link=https%3A%2F%2Fgithub.com%2FNoxGamingQC" />
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fnoxgamingqc.ca&style=for-the-badge" />
-    <img alt="Google Play Store" src="https://img.shields.io/badge/Google%20Play%20Store-555555?style=for-the-badge&logo=google&&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5595986730731726399&logoColor=%23ffffff" />
-    <img alt="Twitch status" src="https://img.shields.io/twitch/status/noxgamingqc?style=for-the-badge&logo=twitch&logoColor=%23ffffff" />
-    <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCytKDUapog2tnJD4XenehiQ?style=for-the-badge&label=YouTube%20subs&logo=youtube&logoColor=%23ffffff" />
-    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/8650826?style=for-the-badge&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8650826&logoColor=%23ffffff" />
-    <img alt="Ask Ubuntu" src="https://img.shields.io/stackexchange/askubuntu/r/739492?style=for-the-badge&logo=askubuntu&link=https%3A%2F%2Faskubuntu.com%2Fusers%2F739492&logoColor=%23ffffff" />
-    <img alt="Discord" src="https://img.shields.io/discord/938558244924829756?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=%20&labelColor=%23697EC4&color=%237289DA&link=https%3A%2F%2Fnoxgamingqc.ca%2Fdiscord" />
+    <a href="#"><img alt="GitHub followers" src="https://img.shields.io/github/followers/noxgamingqc?style=for-the-badge&label=Github%20followers&link=https%3A%2F%2Fgithub.com%2FNoxGamingQC" /></a>
+    <a href="https://www.noxgamingqc.ca"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fnoxgamingqc.ca&style=for-the-badge" /></a>
+    <a href="https://play.google.com/store/apps/dev?id=5595986730731726399"><img alt="Google Play Store" src="https://img.shields.io/badge/Google%20Play%20Store-555555?style=for-the-badge&logo=google&&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5595986730731726399&logoColor=%23ffffff" /></a>
+    <a href="https://twitch.tv/noxgamingqc"><img alt="Twitch status" src="https://img.shields.io/twitch/status/noxgamingqc?style=for-the-badge&logo=twitch&logoColor=%23ffffff" /></a>
+    <a href="https://youtube.com/@noxgamingqc"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCytKDUapog2tnJD4XenehiQ?style=for-the-badge&label=YouTube%20subs&logo=youtube&logoColor=%23ffffff" /></a>
+    <a href="https://stackoverflow.com/users/8650826"><img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/8650826?style=for-the-badge&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8650826&logoColor=%23ffffff" /></a>
+    <a href="https://askubuntu.com/users/739492"><img alt="Ask Ubuntu" src="https://img.shields.io/stackexchange/askubuntu/r/739492?style=for-the-badge&logo=askubuntu&link=https%3A%2F%2Faskubuntu.com%2Fusers%2F739492&logoColor=%23ffffff" /></a>
+    <a href="https://noxgamingqc.ca/discord"><img alt="Discord" src="https://img.shields.io/discord/938558244924829756?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=%20&labelColor=%23697EC4&color=%237289DA&link=https%3A%2F%2Fnoxgamingqc.ca%2Fdiscord" /></a>
 </p>
 
 <p align="center">
