@@ -6,11 +6,6 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnoxgamingqc.ca&style=for-the-badge&labelColor=333333)](https://www.noxgamingqc.ca)
 [![Google Play Store](https://img.shields.io/badge/Google%20Play%20Store-414141?style=for-the-badge&logo=google-play&&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5595986730731726399&logoColor=%23ffffff)](https://play.google.com/store/apps/dev?id=5595986730731726399)
-[![Discord](https://img.shields.io/discord/938558244924829756?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=%20&color=%235865F2&link=https%3A%2F%2Fnoxgamingqc.ca%2Fdiscord)](https://www.noxgamingqc.ca/discord)
-[![Twitch](https://img.shields.io/twitch/status/noxgamingqc?style=for-the-badge&logo=twitch&logoColor=%23ffffff&labelColor=333333)](https://twitch.tv/noxgamingqc)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCytKDUapog2tnJD4XenehiQ?style=for-the-badge&label=YouTube%20subs&logo=youtube&logoColor=%23ffffff&labelColor=333333&color=FF0000)](https://youtube.com/@noxgamingqc)
-[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/8650826?style=for-the-badge&logo=stackoverflow&logoColor=%23ffffff&labelColor=333333&color=FE7A16)](https://stackoverflow.com/users/8650826)
-[![Ask Ubuntu](https://img.shields.io/stackexchange/askubuntu/r/739492?style=for-the-badge&logo=askubuntu&logoColor=%23ffffff&labelColor=333333&color=E95420)](https://askubuntu.com/users/739492)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=noxgamingqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](#)
 [![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noxgamingqc&layout=compact&langs_count=7&theme=dracula)](#)
@@ -26,15 +21,16 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 
 ### Connect with me:
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://noxgamingqc.ca/discord)
+[![Ask Ubuntu](https://img.shields.io/stackexchange/askubuntu/r/739492?style=for-the-badge&label=Ask%20Ubuntu&logo=askubuntu&logoColor=%23ffffff&labelColor=E95420&color=E95420)](https://askubuntu.com/users/739492)
+[![Discord](https://img.shields.io/discord/938558244924829756.svg?style=for-the-badge&logo=discord&logoColor=white&label=%20&labelColor=5865F2&color=5865F2)](https://noxgamingqc.ca/discord)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/noxgamingqc)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noxgamingqc)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://snapchat.com/add/NoxGamingQC)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/howlnox22607)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8650826)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/noxgamingqc)
+[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/8650826?style=for-the-badge&label=Stackoverflow&logo=stackoverflow&logoColor=%23ffffff&labelColor=FE7A16&color=FE7A16)](https://stackoverflow.com/users/8650826)
+[![Twitch](https://img.shields.io/twitch/status/noxgamingqc?style=for-the-badge&logo=twitch&logoColor=%23ffffff&labelColor=9146FF)](https://twitch.tv/noxgamingqc)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/noxgamingqc)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@noxgamingqc)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCytKDUapog2tnJD4XenehiQ.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=E05D44&labelColor=E05D44&label=YouTube)](https://www.youtube.com/@noxgamingqc)
 
 ### Languages and Tools:
 
