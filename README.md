@@ -4,7 +4,6 @@
 
 I'm a Québécois that do videos, live stream and some coding as an hobby. Speaks French and English
 
-
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnoxgamingqc.ca&style=for-the-badge&labelColor=333333)](https://www.noxgamingqc.ca)
 [![Google Play Store](https://img.shields.io/badge/Google%20Play%20Store-414141?style=for-the-badge&logo=google-play&&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5595986730731726399&logoColor=%23ffffff)](https://play.google.com/store/apps/dev?id=5595986730731726399)
 [![Discord](https://img.shields.io/discord/938558244924829756?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=%20&color=%235865F2&link=https%3A%2F%2Fnoxgamingqc.ca%2Fdiscord)](https://www.noxgamingqc.ca/discord)
@@ -13,7 +12,9 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 [![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/8650826?style=for-the-badge&logo=stackoverflow&logoColor=%23ffffff&labelColor=333333&color=FE7A16)](https://stackoverflow.com/users/8650826)
 [![Ask Ubuntu](https://img.shields.io/stackexchange/askubuntu/r/739492?style=for-the-badge&logo=askubuntu&logoColor=%23ffffff&labelColor=333333&color=E95420)](https://askubuntu.com/users/739492)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=noxgamingqc&theme=dracula)](#)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=noxgamingqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](#)
+[![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noxgamingqc&layout=compact&langs_count=7&theme=dracula)](#)
+
 
 - 🔭 Want to check our projects. Our official pages are available [here](https://github.noxgamingqc.ca)
 
@@ -75,8 +76,4 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](#)
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](#)
 
-<a align="center" href="https://github.com/NoxGamingQC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noxgamingqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxgamingqc&layout=compact&langs_count=7&theme=dracula" />
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noxgamingqc&layout=compact&theme=dracula" alt="noxgamingqc" /></p>
-</a>
+
