@@ -159,3 +159,6 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+
+### Aknowledgments
+- The list of badges listed in most of my repositories is from [Ileriayo repo](https://github.com/Ileriayo/markdown-badges).
