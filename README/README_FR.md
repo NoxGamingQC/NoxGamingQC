@@ -161,3 +161,5 @@ Je suis un Québécois qui fais des vidéos, des streams et de la programmation 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 
 
+### Remerciements
+- La listes des badges disponibles dans la pluspart de mes projets sont disponible dans le [projet de Ileriayo](https://github.com/Ileriayo/markdown-badges).
