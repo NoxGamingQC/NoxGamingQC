@@ -1,5 +1,5 @@
+<sup><sub>[Français disponible ici](README/README_FR.md)</sub></sup>
 
-[Français disponible ici](README/README_FR.md)
 # Hi 👋, I'm Jimmy
 
 I'm a Québécois that do videos, live stream and some coding as an hobby. Speaks French and English
@@ -23,36 +23,17 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 
 - 📫 How to reach me **jbedard@noxgamingqc.ca**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/noxgamingqc" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noxgamingqc" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/noxgamingqc" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noxgamingqc" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/8650826" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="noxgamingqc" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/noxgamingqc" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noxgamingqc" height="30" width="40" />
-    </a>
-    <a href="https://www.twitch.tv/noxgamingqc" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="noxgamingqc" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/@noxgamingqc" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noxgamingqc" height="30" width="40" />
-    </a>
-    <a href="https://noxgamingqc.ca/discord" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="noxgamingqc" height="30" width="40" />
-    </a>
-    <a href="https://open.spotify.com/user/howlnox22607" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="noxgamingqc" height="30" width="40" />
-    </a>
-    <a href="https://snapchat.com/add/NoxGamingQC" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="noxgamingqc" height="30" width="40" />
-    </a>
-</p>
+### Connect with me:
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://noxgamingqc.ca/discord)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/noxgamingqc)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noxgamingqc)
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://snapchat.com/add/NoxGamingQC)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/howlnox22607)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8650826)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/noxgamingqc)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/noxgamingqc)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@noxgamingqc)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
