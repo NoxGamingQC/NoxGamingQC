@@ -110,4 +110,4 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 [![Yarn](https://img.shields.io/badge/-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](# "Yarn")
 
 ### Aknowledgments
-- The list of badges listed in most of my repositories are from [Ileriayo repo](https://github.com/Ileriayo/markdown-badges).
+- The list of badges listed in most of my repositories are from [Ileriayo repository](https://github.com/Ileriayo/markdown-badges).
