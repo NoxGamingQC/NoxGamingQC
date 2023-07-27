@@ -27,7 +27,7 @@ Je suis un Québécois qui fais des vidéos, des streams et de la programmation 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noxgamingqc)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://snapchat.com/add/NoxGamingQC)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/howlnox22607)
-[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/8650826?style=for-the-badge&label=Stackoverflow&logo=stackoverflow&logoColor=%23ffffff&labelColor=FE7A16&color=FE7A16)](https://stackoverflow.com/users/8650826)
+[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/8650826?style=for-the-badge&label=Stack%20Overflow&logo=stackoverflow&logoColor=%23ffffff&labelColor=FE7A16&color=FE7A16)](https://stackoverflow.com/users/8650826)
 [![Twitch](https://img.shields.io/twitch/status/noxgamingqc?style=for-the-badge&logo=twitch&logoColor=%23ffffff&labelColor=9146FF)](https://twitch.tv/noxgamingqc)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/noxgamingqc)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCytKDUapog2tnJD4XenehiQ.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=E05D44&labelColor=E05D44&label=YouTube)](https://www.youtube.com/@noxgamingqc)
