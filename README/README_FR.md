@@ -13,7 +13,7 @@ Je suis un Québécois qui fais des vidéos, des streams et de la programmation 
 
 - 🔭 Vous voulez voir nos projets? Notre page officiel est disponible [ici](https://github.noxgamingqc.ca)
 
-- 🌱 J'apprend présentement le N/D
+- <!-- 🌱 J'apprend présentement le N/D -->
 
 - 👨‍💻 Tous nos projets sont disponible [sur notre site web](https://www.noxgamingqc.ca/en-ca/about_us/projects)
 
