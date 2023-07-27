@@ -1,4 +1,4 @@
-<sup><sub>[English available here](../README.md)</sub></sup>
+<sup>[English available here](../README.md)</sup>
 
 # Bonjour 👋, je m'appelle Jimmy
 
