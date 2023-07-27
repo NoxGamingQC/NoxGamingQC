@@ -110,4 +110,4 @@ Je suis un Québécois qui fais des vidéos, des streams et de la programmation 
 [![Yarn](https://img.shields.io/badge/-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](# "Yarn")
 
 ### Remerciements
-- La listes des badges disponibles dans la pluspart de mes projets sont disponible dans le [projet de Ileriayo](https://github.com/Ileriayo/markdown-badges).
+- La liste des badges utilisée dans la pluspart de mes projets sont disponible dans le [projet de Ileriayo](https://github.com/Ileriayo/markdown-badges).
