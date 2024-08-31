@@ -1,4 +1,4 @@
-<sup>[English available here](README/README_FR.md)</sup>
+<sup>[Français disponible ici](README/README_FR.md)</sup>
 
 # Hi 👋, I'm Jimmy
 
