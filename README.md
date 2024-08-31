@@ -16,7 +16,7 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 
 - 👨‍💻 All of my projects are available on [our website](https://www.noxgamingqc.ca/en-ca/about_us/projects)
 
-- 📫 How to reach me **jbedard@noxgamingqc.ca**
+- 📫 How to reach me **dev@noxgamingqc.ca**
 
 ### Connect with me:
 
