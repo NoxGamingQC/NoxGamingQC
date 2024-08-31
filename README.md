@@ -1,3 +1,5 @@
+<sup>[English available here](README/README_FR.md)</sup>
+
 # Hi 👋, I'm Jimmy
 
 I'm a Québécois that do videos, live stream and some coding as an hobby. Speaks French and English
