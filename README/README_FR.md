@@ -4,7 +4,7 @@
 
 Je suis un Québécois qui fais des vidéos, des streams et de la programmation dans mes passe-temps. Je parle le français et l'anglais
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fnoxgamingqc.ca&style=for-the-badge&labelColor=333333)](https://www.noxgamingqc.ca)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.noxgamingqc.ca&style=for-the-badge&labelColor=333333)](https://www.noxgamingqc.ca)
 [![Github Pages](https://img.shields.io/website?url=https%3A%2F%2Fgithub.noxgamingqc.ca&style=for-the-badge&labelColor=333333&logo=github&logoColor=white&label=GitHub%20Pages)](https://github.noxgamingqc.ca)
 [![Google Play Store](https://img.shields.io/badge/Google%20Play%20Store-414141?style=for-the-badge&logo=google-play&&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5595986730731726399&logoColor=%23ffffff)](https://play.google.com/store/apps/dev?id=5595986730731726399)
 
@@ -18,7 +18,7 @@ Je suis un Québécois qui fais des vidéos, des streams et de la programmation 
 
 - 👨‍💻 Tous nos projets sont disponible [sur notre site web](https://www.noxgamingqc.ca/en-ca/about_us/projects)
 
-- 📫 Vous pouvez me rejoindre au **jbedard@noxgamingqc.ca**
+- 📫 Vous pouvez me rejoindre au **dev@noxgamingqc.ca**
 
 ### Pour se connecter avec moi:
 
