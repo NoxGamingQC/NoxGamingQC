@@ -113,4 +113,4 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 ### Aknowledgments
 - The list of badges listed in most of my repositories are from [Ileriayo repository](https://github.com/Ileriayo/markdown-badges).
 
-[![Made in Canada](https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%A6-Made%20in%20Canada-informational?logo=&style=for-the-badge&logoColor=ff0000&color=ff0000&labelColor=ff0000)](# "Made in Canada")
+[![Made in Canada](https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%A6-Made%20in%20Canada-informational?logo=&style=for-the-badge&logoColor=d80621&color=d80621&labelColor=d80621)](# "Made in Canada")
