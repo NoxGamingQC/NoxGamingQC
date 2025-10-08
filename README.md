@@ -5,7 +5,7 @@
 I'm a Québécois that do videos, live stream and some coding as an hobby. Speaks French and English
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.noxgamingqc.ca&style=for-the-badge&labelColor=333333)](https://www.noxgamingqc.ca)
-[![Github Pages](https://img.shields.io/website?url=https%3A%2F%2Fgithub.jimmybedard.ca&style=for-the-badge&labelColor=333333&logo=github&logoColor=white&label=GitHub%20Pages)](https://github.noxgamingqc.ca)
+[![Github Pages](https://img.shields.io/website?url=https%3A%2F%2Fgithub.jimmybedard.ca&style=for-the-badge&labelColor=333333&logo=github&logoColor=white&label=GitHub%20Pages)](https://github.jimmybedard.ca)
 [![Google Play Store](https://img.shields.io/badge/Google%20Play%20Store-414141?style=for-the-badge&logo=google-play&&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5595986730731726399&logoColor=%23ffffff)](https://play.google.com/store/apps/dev?id=5595986730731726399)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=noxgamingqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](#)
