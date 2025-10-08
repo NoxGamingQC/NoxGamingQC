@@ -10,6 +10,7 @@ repository_url: https://github.com/NoxGamingQC/jekyll-theme
 is_project_page: true
 owner_url: https://github.com/NoxGamingQC
 owner_name: NoxGamingQC
+image: https://www.jimmybedard.ca/img/logo.png
 ---
 
 ### What is it?
