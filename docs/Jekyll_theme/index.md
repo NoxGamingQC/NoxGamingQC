@@ -38,6 +38,7 @@ repository_url: _The link to your project_
 is_project_page: _(true) will enable the github button under the title (false) will remove it_
 owner_url: _Your github page link_
 owner_name: _The name of the owner of the project_
+image: _Insert url here_
 ---
 
 ```
