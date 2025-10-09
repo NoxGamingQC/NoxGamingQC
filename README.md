@@ -1,16 +1,16 @@
-# Hi, my name is **Jimmy Béland-Bédard** 👋
+# 👋 Hi, my name is **Jimmy Béland-Bédard**
 ### Québécois, programmer, streamer, Tech enthusiast.
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.noxgamingqc.ca&style=for-the-badge&labelColor=333333)](https://www.noxgamingqc.ca)
 [![Github Pages](https://img.shields.io/website?url=https%3A%2F%2Fgithub.jimmybedard.ca&style=for-the-badge&labelColor=333333&logo=github&logoColor=white&label=GitHub%20Pages)](https://github.jimmybedard.ca)
 
-## About me
+## 📜 About me
 
 - 🔭 Want to check our projects. Our official page is available [here](https://github.noxgamingqc.ca)
 
 - 👨‍💻 All of my projects are available on [our website](https://www.jimmybedard.ca/en-ca/about_us/projects)
 
 
-## Languages and Tools
+## 🧑‍💻 Languages and Tools
 <table>
   <tr>
     <th>C</th>
