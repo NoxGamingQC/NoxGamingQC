@@ -45,6 +45,7 @@
 
 <hr />
 
+[![GitHub Stats](https://stats.hyo.dev/api/github-stats-advanced?login=noxgamingqc)]
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=noxgamingqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](#)
 [![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noxgamingqc&layout=compact&langs_count=7&theme=dracula)](#)
 
