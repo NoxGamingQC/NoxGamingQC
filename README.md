@@ -32,10 +32,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#">
     </td>
     <td align="center" width="96">
-        <img src="" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript">
     </td>
     <td align="center" width="96">
-        <img src="" alt="">
+        <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP">
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ubuntu-logo-no-wordmark-solid-o-2022.svg/2127px-Ubuntu-logo-no-wordmark-solid-o-2022.svg.png" alt="Ubuntu">
