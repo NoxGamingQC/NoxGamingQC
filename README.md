@@ -1,8 +1,6 @@
-<sup>[Français disponible ici](README/README_FR.md)</sup>
-
-# Hi 👋, I'm Jimmy
-
-I'm a Québécois that do videos, live stream and some coding as an hobby. Speaks French and English
+<h1> $${ \textnormal{ Hi, my name is \color{red}Jimmy Béland-Bédard }}$$</h1>
+<h2> $${ \textnormal{ Also known as \color{red}NoxGamingQC. }}$$</h2>
+<h4> Québécois, programmer, streamer, Tech enthusiast.</h4>
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.noxgamingqc.ca&style=for-the-badge&labelColor=333333)](https://www.noxgamingqc.ca)
 [![Github Pages](https://img.shields.io/website?url=https%3A%2F%2Fgithub.jimmybedard.ca&style=for-the-badge&labelColor=333333&logo=github&logoColor=white&label=GitHub%20Pages)](https://github.jimmybedard.ca)
@@ -10,7 +8,6 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=noxgamingqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](#)
 [![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noxgamingqc&layout=compact&langs_count=7&theme=dracula)](#)
-
 
 - 🔭 Want to check our projects. Our official pages are available [here](https://github.noxgamingqc.ca)
 
@@ -20,20 +17,7 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 
 - 📫 How to reach me **dev@noxgamingqc.ca**
 
-### Connect with me:
-
-[![Ask Ubuntu](https://img.shields.io/stackexchange/askubuntu/r/739492?style=for-the-badge&label=Ask%20Ubuntu&logo=askubuntu&logoColor=%23ffffff&labelColor=E95420&color=E95420)](https://askubuntu.com/users/739492 "Ask Ubuntu")
-[![Discord](https://img.shields.io/discord/938558244924829756.svg?style=for-the-badge&logo=discord&logoColor=white&label=%20&labelColor=5865F2&color=5865F2)](https://noxgamingqc.ca/discord "Join our discord server")
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/noxgamingqc "Instagram")
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noxgamingqc "LinkedIn")
-[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://snapchat.com/add/NoxGamingQC "Snapchat")
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/howlnox22607 "Spotify")
-[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/8650826?style=for-the-badge&label=Stack%20Overflow&logo=stackoverflow&logoColor=%23ffffff&labelColor=FE7A16&color=FE7A16)](https://stackoverflow.com/users/8650826 "Stack overflow")
-[![Twitch](https://img.shields.io/twitch/status/noxgamingqc?style=for-the-badge&logo=twitch&logoColor=%23ffffff&labelColor=9146FF)](https://twitch.tv/noxgamingqc "Twitch")
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/noxgamingqc "Twitter")
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCytKDUapog2tnJD4XenehiQ.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=E05D44&labelColor=E05D44&label=YouTube)](https://www.youtube.com/@noxgamingqc "YouTube")
-
-
+### Tools I like to use, and languages I'm having fun with
 <table>
   <tr>
     <td align="center" width="96">
