@@ -1,6 +1,4 @@
-<h1> $${ \textnormal{ Hi, my name is \color{red}Jimmy Béland-Bédard }}$$</h1>
-<h2> $${ \textnormal{ Also known as \color{red}NoxGamingQC. }}$$</h2>
-<h4> Québécois, programmer, streamer, Tech enthusiast.</h4>
+# Hi, my name is **Jimmy Béland-Bédard** _(NoxGamingQC)_ 👋
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.noxgamingqc.ca&style=for-the-badge&labelColor=333333)](https://www.noxgamingqc.ca)
 [![Github Pages](https://img.shields.io/website?url=https%3A%2F%2Fgithub.jimmybedard.ca&style=for-the-badge&labelColor=333333&logo=github&logoColor=white&label=GitHub%20Pages)](https://github.jimmybedard.ca)
