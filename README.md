@@ -37,7 +37,7 @@ I'm a Québécois that do videos, live stream and some coding as an hobby. Speak
 <table>
   <tr>
     <td align="center" width="96">
-        <p>Ubuntu</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ubuntu-logo-no-wordmark-solid-o-2022.svg/2127px-Ubuntu-logo-no-wordmark-solid-o-2022.svg.png" alt="Ubuntu">
     </td>
   </tr>
 </table>
