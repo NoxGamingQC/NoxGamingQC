@@ -49,7 +49,7 @@
 [![Trophies](https://stats.hyo.dev/api/github-trophies?login=hyochan)](#)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=noxgamingqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](#)
-[![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noxgamingqc&langs_count=5&theme=dracula)](#)
+[![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noxgamingqc&layout=pie&langs_count=5&theme=dracula)](#)
 
 
 [![Made in Québec](https://img.shields.io/badge/%E2%9A%9C-Made%20in%20Qu%C3%A9bec-informational?logo=&style=flat-square&logoColor=ffffff&color=003DA5&labelColor=a9c9ff)](# "Made in Quebec")
