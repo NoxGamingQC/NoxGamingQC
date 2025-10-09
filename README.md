@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available on [our website](https://www.jimmybedard.ca/en-ca/about_us/projects)
 
 
-## Tools I like to use, and languages I'm having fun with
+## Languages and Tools
 <table>
   <tr>
     <th>C</th>
