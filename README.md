@@ -1,4 +1,4 @@
-# 👋 Hi, my name is **Jimmy Béland-Bédard**
+# 👋 **Jimmy Béland-Bédard** _(NoxGamingQC)_
 ### Québécois, programmer, streamer, Tech enthusiast.
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.noxgamingqc.ca&style=for-the-badge&labelColor=333333)](https://www.noxgamingqc.ca)
 [![Github Pages](https://img.shields.io/website?url=https%3A%2F%2Fgithub.jimmybedard.ca&style=for-the-badge&labelColor=333333&logo=github&logoColor=white&label=GitHub%20Pages)](https://github.jimmybedard.ca)
