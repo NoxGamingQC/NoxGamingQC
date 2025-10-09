@@ -18,22 +18,18 @@
     <th>C++</th>
     <th>C#</th>
     <th>Javascript</th>
-    <th>Kotlin</th>
     <th>PHP</th>
     <th>Ubuntu</th>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C">
     </td>
     <td align="center" width="96">
-        <img src="" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++">
     </td>
     <td align="center" width="96">
-        <img src="" alt="">
-    </td>
-    <td align="center" width="96">
-        <img src="" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#">
     </td>
     <td align="center" width="96">
         <img src="" alt="">
