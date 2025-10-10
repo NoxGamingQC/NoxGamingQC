@@ -26,14 +26,19 @@ J’ai déjà travaillé chez **ARM Canada** en tant que programmeur et aujourd�
 
 Voici quelques-unes des technologies que j’utilise fréquemment :
 
-![](https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&labelColor=white&logo=ubuntu)
-![](https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&labelColor=white&logo=laravel)
-![](https://img.shields.io/badge/IDE-Vscode-blue?style=for-the-badge&logo=vscode)
-![](https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php)
-![](https://img.shields.io/badge/Code-javascript-yellow?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c)
-![](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cpp)
-![](https://img.shields.io/badge/Code-Csharp-blue?style=for-the-badge&logo=csharp)
+### Système d'exploitation
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Frameworks & IDE
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
