@@ -1,9 +1,8 @@
 # Jimmy Béland-Bédard (NoxGamingQC)
-
-<section align="center">
-  <img src="https://img.shields.io/badge/Québécois-%F0%9F%87%AB%F0%9F%87%B8-blue" alt="Québécois" />
-  <img src="https://img.shields.io/badge/Developer-Streamer-green" alt="Developer & Streamer" />
-  <img src="https://img.shields.io/badge/Tech-Enthusiast-✔️-orange" alt="Tech Enthusiast" />
+<h3>Québécois, programmeur, streamer, entousiaste de la Technologie.</h3>
+<section>
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.jimmybedard.ca&style=for-the-badge&labelColor=333333&label=site%20web" alt="Site web" />
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.jimmybedard.ca&style=for-the-badge&labelColor=333333&logo=github&logoColor=white&label=GitHub%20Pages" alt="Developer & Streamer" />
 </section>
 
 ---
@@ -12,10 +11,10 @@
 
 Salut ! Je suis **Jimmy Béland-Bédard**, aussi connu sous le pseudo **NoxGamingQC**.  
 Québécois de cœur, passionné par le développement logiciel, le streaming et tout ce qui touche à la tech.  
-J’ai déjà travaillé chez **ARM Canada** et aujourd’hui, je code surtout par passion.
+J’ai déjà travaillé chez **ARM Canada** en tant que programmeur et aujourd’hui, je code surtout par plaisir.
 
 - 📍 Basé à **Shawinigan, Québec, Canada**  
-- 🌐 Site officiel / portfolio : [noxgamingqc.ca](https://www.noxgamingqc.ca)  
+- 🌐 Site officiel / portfolio : [jimmybedard.ca](https://www.jimmybedard.ca)  
 - 🎮 Twitch : [noxgamingqc](https://www.twitch.tv/noxgamingqc)  
 - 📺 YouTube : [@noxgamingqc](https://www.youtube.com/@noxgamingqc)  
 - 🐦 X / Twitter : [@NoxGamingQC](https://twitter.com/NoxGamingQC)  
@@ -56,7 +55,7 @@ Je suis toujours ouvert à de nouveaux projets, collaborations, ou simplement di
 N’hésite pas à me contacter via :
 
 - 🔗 [Site web / portfolio](https://www.noxgamingqc.ca)  
-- 📧 (ajoute ici ton adresse email ou une manière de te joindre)  
+- 📧 dev@noxgamingqc.ca
 - 💬 Ou via Github / réseaux sociaux mentionnés plus haut  
 
 ---
