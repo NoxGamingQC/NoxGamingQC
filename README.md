@@ -43,7 +43,7 @@ Voici quelques-uns de mes dépôts épinglés / projets phares :
 | **Scripts** | Divers scripts utiles | C#, etc. |
 | **NoxBOT** | Bot multiplateforme pour Discord | JavaScript |
 | **jekyll-theme** | Thème Jekyll personnalisé | HTML / CSS / Jekyll |
-| **Quote** | Générateur de citation pour articles | — |
+| **Quote** | Générateur de soumissions | — |
 
 (Et bien d'autres encore !)
 
