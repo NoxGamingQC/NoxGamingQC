@@ -35,12 +35,6 @@ Voici quelques-unes des technologies que j’utilise fréquemment :
 ![](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cpp)
 ![](https://img.shields.io/badge/Code-Csharp-blue?style=for-the-badge&logo=csharp)
 
-- **Ubuntu** (environnement de dev)  
-- **C**, **C++**, **C#**  
-- **JavaScript**  
-- **PHP** & **Laravel**  
-- **Visual Studio Code**
-
 ---
 
 ## 📂 Projets mis en avant
