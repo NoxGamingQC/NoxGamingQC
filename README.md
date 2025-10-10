@@ -26,6 +26,10 @@ J’ai déjà travaillé chez **ARM Canada** en tant que programmeur et aujourd�
 
 Voici quelques-unes des technologies que j’utilise fréquemment :
 
+![](https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&labelColor=white&logo=ubuntu)
+![](https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&labelColor=white&logo=laravel)
+![](https://img.shields.io/badge/IDE-Vscode-blue?style=for-the-badge&logo=vscode)
+
 - **Ubuntu** (environnement de dev)  
 - **C**, **C++**, **C#**  
 - **JavaScript**  
