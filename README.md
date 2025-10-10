@@ -29,6 +29,11 @@ Voici quelques-unes des technologies que j’utilise fréquemment :
 ![](https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&labelColor=white&logo=ubuntu)
 ![](https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&labelColor=white&logo=laravel)
 ![](https://img.shields.io/badge/IDE-Vscode-blue?style=for-the-badge&logo=vscode)
+![](https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/Code-javascript-yellow?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c)
+![](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cpp)
+![](https://img.shields.io/badge/Code-Csharp-blue?style=for-the-badge&logo=csharp)
 
 - **Ubuntu** (environnement de dev)  
 - **C**, **C++**, **C#**  
