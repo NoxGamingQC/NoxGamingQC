@@ -1,48 +1,65 @@
-# 👋 **Jimmy Béland-Bédard** _(NoxGamingQC)_
-### Québécois, programmer, streamer, Tech enthusiast.
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.noxgamingqc.ca&style=for-the-badge&labelColor=333333)](https://www.noxgamingqc.ca)
-[![Github Pages](https://img.shields.io/website?url=https%3A%2F%2Fgithub.jimmybedard.ca&style=for-the-badge&labelColor=333333&logo=github&logoColor=white&label=GitHub%20Pages)](https://github.jimmybedard.ca)
+# Jimmy Béland-Bédard (NoxGamingQC)
 
-## 📜 About me
+<section align="center">
+  <img src="https://img.shields.io/badge/Québécois-%F0%9F%87%AB%F0%9F%87%B8-blue" alt="Québécois" />
+  <img src="https://img.shields.io/badge/Developer-Streamer-green" alt="Developer & Streamer" />
+  <img src="https://img.shields.io/badge/Tech-Enthusiast-✔️-orange" alt="Tech Enthusiast" />
+</section>
 
-- 🔭 Want to check our projects. Our official page is available [here](https://github.noxgamingqc.ca)
+---
 
-- 👨‍💻 All of my projects are available on [our website](https://www.jimmybedard.ca/en-ca/about_us/projects)
+## 🧑‍💻 À propos de moi
 
+Salut ! Je suis **Jimmy Béland-Bédard**, aussi connu sous le pseudo **NoxGamingQC**.  
+Québécois de cœur, passionné par le développement logiciel, le streaming et tout ce qui touche à la tech.  
+J’ai déjà travaillé chez **ARM Canada** et aujourd’hui, je code surtout par passion.
 
-## 🧑‍💻 Languages and Tools
-<table>
-  <tr>
-    <th>C</th>
-    <th>C++</th>
-    <th>C#</th>
-    <th>Javascript</th>
-    <th>PHP</th>
-    <th>Ubuntu</th>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C">
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++">
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#">
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript">
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP">
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ubuntu-logo-no-wordmark-solid-o-2022.svg/2127px-Ubuntu-logo-no-wordmark-solid-o-2022.svg.png" alt="Ubuntu">
-    </td>
-  </tr>
-</table>
+- 📍 Basé à **Shawinigan, Québec, Canada**  
+- 🌐 Site officiel / portfolio : [noxgamingqc.ca](https://www.noxgamingqc.ca)  
+- 🎮 Twitch : [noxgamingqc](https://www.twitch.tv/noxgamingqc)  
+- 📺 YouTube : [@noxgamingqc](https://www.youtube.com/@noxgamingqc)  
+- 🐦 X / Twitter : [@NoxGamingQC](https://twitter.com/NoxGamingQC)  
+- 📷 Instagram : [NoxGamingQC](https://www.instagram.com/NoxGamingQC)  
 
-<hr />
+---
 
-[![Made in Québec](https://img.shields.io/badge/%E2%9A%9C-Made%20in%20Qu%C3%A9bec-informational?logo=&style=flat-square&logoColor=ffffff&color=003DA5&labelColor=a9c9ff)](# "Made in Quebec")
-[![Made in Canada](https://img.shields.io/badge/🍁-Made%20in%20Canada-informational?logo=&style=flat-square&logoColor=ffffff&color=d80621&labelColor=fdb9c2)](# "Made in Canada")
+## 🛠️ Langages & Technologies
+
+Voici quelques-unes des technologies que j’utilise fréquemment :
+
+- **Ubuntu** (environnement de dev)  
+- **C**, **C++**, **C#**  
+- **JavaScript**  
+- **PHP** & **Laravel**  
+- **Visual Studio Code**
+
+---
+
+## 📂 Projets mis en avant
+
+Voici quelques-uns de mes dépôts épinglés / projets phares :
+
+| Nom | Description | Langage / tech |
+|---|---|---|
+| **Scripts** | Divers scripts utiles | C#, etc. |
+| **NoxBOT** | Bot multiplateforme pour Discord | JavaScript |
+| **jekyll-theme** | Thème Jekyll personnalisé | HTML / CSS / Jekyll |
+| **Quote** | Générateur de citation pour articles | — |
+
+(Et bien d'autres encore !)
+
+---
+
+## 📫 Contact & collaboration
+
+Je suis toujours ouvert à de nouveaux projets, collaborations, ou simplement discuter tech.  
+N’hésite pas à me contacter via :
+
+- 🔗 [Site web / portfolio](https://www.noxgamingqc.ca)  
+- 📧 (ajoute ici ton adresse email ou une manière de te joindre)  
+- 💬 Ou via Github / réseaux sociaux mentionnés plus haut  
+
+---
+
+Merci d’être passé(e) sur mon profil, et bonne visite 👋  
+— Jimmy / NoxGamingQC
